@@ -39,4 +39,4 @@ The Simple Banking Application is for educational purposes only and does not rep
 Author:
 NikKnez
 
-Thank you for using the Simple Banking Application. We hope you find it useful and educational!
+Thank you for using the Simple Banking Application. I hope you find it useful and educational!
